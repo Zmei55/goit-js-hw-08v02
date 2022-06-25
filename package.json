@@ -2,9 +2,10 @@
   "name": "task-01",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://zmei55.github.io/goit-js-hw-08v02/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/parcel index.html --public-url /goit-js-hw-08v02/"
+    "build": "parcel build src/index.html --public-url /goit-js-hw-08v02/"
   },
   "keywords": [],
   "author": "",
