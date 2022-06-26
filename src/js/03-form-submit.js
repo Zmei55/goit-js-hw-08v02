@@ -1,4 +1,4 @@
-import { STORAGE_KEY } from './03-form-data-key';
+const STORAGE_KEY = 'feedback-form-state';
 
 export default function onFormSubmit(event) {
   event.preventDefault();

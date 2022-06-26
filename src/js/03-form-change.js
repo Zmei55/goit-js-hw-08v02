@@ -1,4 +1,7 @@
-import { STORAGE_KEY, FormData } from './03-form-data-key';
+const FormData = {
+  EMAIL: '',
+  MESSAGE: '',
+};
 
 const STORAGE_KEY = 'feedback-form-state';
 

@@ -1,5 +1,6 @@
-import { STORAGE_KEY } from './03-form-data-key';
 import refs from './refs';
+
+const STORAGE_KEY = 'feedback-form-state';
 
 export default function populateForm() {
   const savedMessage = JSON.parse(localStorage.getItem(STORAGE_KEY));
